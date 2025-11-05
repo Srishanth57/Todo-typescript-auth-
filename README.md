@@ -36,4 +36,15 @@ Before you begin, ensure you have the following installed:
 
 ## 🛠️ Installation
 
-1. **Clone the repository**
+1. **Clone the repository** ( git clone 'url' )
+2. cd sample
+3. npm i (Install all dependencies) 
+4. npm run dev
+
+Open new terminal 
+1. **Run Backend**
+2.  Move to the backend folder 
+3.  npm i
+4.  nodemon ./index.js
+   
+ 
